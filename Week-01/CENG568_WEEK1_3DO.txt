@@ -1,0 +1,11 @@
+DONE:
+1. CENG 568 	 Multiagent Systems 	MS TEAMS CODE: kkqax03
+2. LECTURES: https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas/videos/
+3. Book: "Michael Wooldridge, An Introduction to Multiagent Systems, John wiley & sons, 2009."
+5. PRESENTATIONS: https://www.cs.ox.ac.uk/people/michael.wooldridge/pubs/imas/distrib/powerpoint-slides/
+
+DOING:
+1. Introduction 
+
+TO DO: 
+1. Intelligent Agents

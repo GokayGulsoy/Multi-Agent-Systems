@@ -1,0 +1,11 @@
+DONE:
+1. Intelligent Agents
+2. Deductive Reasoning Agents
+
+DOING:
+1. https://cacm.acm.org/blogcacm/soundness-and-completeness-defined-with-precision/
+2. https://homepages.laas.fr/ypencole/teaching/KRR1.pdf
+3. https://www.cs.ubc.ca/~hutter/teaching/cpsc322/5-Logic2.pdf
+
+TO DO: 
+1. Practical Reasoning Agents

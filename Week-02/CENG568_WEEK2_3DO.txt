@@ -1,0 +1,11 @@
+DONE:
+1. Introduction 
+
+DOING:
+1. Intelligent Agents
+2. https://medium.com/@sulbha.jindal/swe-benchmark-llm-evaluation-in-software-engineering-setting-52f315b2de5a
+3. https://github.com/THUDM/AgentBench
+4. https://arxiv.org/pdf/2404.04834
+
+TO DO: 
+1. Deductive Reasoning Agents
