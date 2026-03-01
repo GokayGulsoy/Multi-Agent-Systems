@@ -17,3 +17,5 @@ Repository for the CENG568 Course that I have taken at IZTECH
 12. Methodologies
 13. Student project presentations 1
 14. Student project presentations 2
+
+[Course Project Link](https://github.com/GokayGulsoy/Skyrowar-LLM-based-Multi-Agent-Battle-Simulator)
